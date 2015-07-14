@@ -1,0 +1,7 @@
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\bin\Debug\Negocio.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\bin\Debug\Negocio.pdb
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\obj\Debug\Negocio.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache

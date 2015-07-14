@@ -1,0 +1,8 @@
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\Entidades\bin\Debug\Entidades.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\Entidades\bin\Debug\Entidades.pdb
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\Entidades\obj\Debug\Entidades.dll
+c:\users\antonio\documents\visual studio 2010\Projects\CRUD_NET3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Antonio\Documents\Visual Studio 2010\Projects\CRUD_NET3\CRUD_NET3\Entidades\obj\Debug\Entidades.pdb
